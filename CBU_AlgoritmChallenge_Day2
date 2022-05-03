@@ -3,8 +3,6 @@
 #include <stdlib.h>
 #include <math.h>
 
-
-
 int main() {
 	// A진법, B진법, A진법으로 나타낸 숫자의 자리수 개수, A진법 수를 10진법으로 바꾼 수 저장 변수
 	int Anotation, Bnotation, m, tmp = 0;
